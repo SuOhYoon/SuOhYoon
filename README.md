@@ -1,14 +1,13 @@
 # 👋 Hi, I'm Su Oh Yoon
 
 저의 GitHub에 방문해주셔서 감사합니다.  
-저는 백엔드 개발과 클라우드 인프라, 보안 및 인증 시스템에 관심이 많으며 꾸준히 성장하고 있습니다.
+백엔드 개발과 클라우드 인프라, 보안 및 인증 시스템에 관심이 많으며 꾸준히 성장하고 있습니다.
 
 ---
 
 ## 🚀 소개
-- 🌱 현재 **Java / Spring 생태계**와 관련된 기술을 집중적으로 학습 중입니다.
+- 🏆 현재 **코딩 테스트를 대비하기 위한 알고리즘 문제 풀이**를 꾸준히 하고 있습니다.
 - 🔒 **인증 / 인가, 마이크로서비스, 클라우드 배포**에 관심이 많습니다.
-- 🏆 알고리즘 문제 풀이와 오픈소스 기여를 즐깁니다.
 
 ---
 
@@ -53,14 +52,14 @@
 ---
 
 ## 🌟 주요 프로젝트
-- 🚗 **Car Manager App** — 중고차 거래 플랫폼 (Spring Boot + React 기반)
-- 💬 **실시간 채팅 앱** — Node.js + Socket.io 기반 파일 전송 지원 채팅
-- 📝 **알고리즘 문제 풀이** — 백준, 프로그래머스 문제 풀이 저장소
+- 🚗 **Car Manager App** — [중고차 거래 플랫폼](https://github.com/hp80bcu/carmanager) (Spring Boot + React 기반)
+- ✅ **PassMate** — [자격증 합격 도우미 DB 설계 프로젝트](https://github.com/beyond-sw-camp/be16-1st-6team-passMate) (mariaDB)
+-  **멍멍냥냥** - [반려동물 커뮤니티 프로젝트](https://github.com/beyond-sw-camp/be16-2nd-1team-MeongNyang-BE)(Spring Boot + Vue.js 기반, 개발중)
 
 ---
 
-## 📫 연락처
-- 📧 이메일: suohyoon@example.com
+## 📫 contact
+- 📧 이메일: dbstdh12@gmail.com
 - 💼 LinkedIn: [linkedin.com/in/suohyoon](https://linkedin.com/in/suohyoon)
 - 📝 블로그: [suohyoon.github.io](https://suohyoon.github.io)
 
