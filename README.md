@@ -60,7 +60,7 @@
 
 ## 📫 contact
 - 📧 이메일: dbstdh12@gmail.com
-- 📝 블로그: [가드의 개발일기](https://velog.io/dbstndh12)
+- 📝 블로그: [가드의 개발일기](https://velog.io/@dbstndh12)
 
 ---
 
