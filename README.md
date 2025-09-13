@@ -54,7 +54,7 @@
 ## 🌟 주요 프로젝트
 - 🚗 **CarManager** — [중고차 거래 플랫폼](https://github.com/hp80bcu/carmanager) (Spring Boot + React 기반)
 - ✅ **PassMate** — [자격증 합격 도우미 DB 설계 프로젝트](https://github.com/beyond-sw-camp/be16-1st-6team-passMate) (mariaDB)
-- 🐾 **멍멍냥냥** - [반려동물 커뮤니티 프로젝트](https://github.com/beyond-sw-camp/be16-2nd-1team-MeongNyang-BE)(Spring Boot + Vue.js 기반, 개발중)
+- 🐾 **멍멍냥냥** - [반려동물 커뮤니티 프로젝트](https://github.com/beyond-sw-camp/be16-4th-1team-MeongNyang-DEVOPS) (spring + vue.js)
 
 ---
 
