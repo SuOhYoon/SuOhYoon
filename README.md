@@ -5,11 +5,6 @@
 
 ---
 
-## 🚀 소개
-- 🔒 **인증 / 인가, 마이크로서비스, 클라우드 배포**에 관심이 많습니다.
-
----
-
 ## 🛠️ 기술 스택
 
 ### 💻 Back-End
@@ -52,7 +47,6 @@
 
 ## 🌟 주요 프로젝트
 - 🚗 **CarManager** — [중고차 거래 플랫폼](https://github.com/hp80bcu/carmanager)
-- ✅ **PassMate** — [자격증 합격 도우미 DB 설계 프로젝트](https://github.com/beyond-sw-camp/be16-1st-6team-passMate)
 - 🐾 **멍멍냥냥** - [반려동물 커뮤니티 프로젝트](https://github.com/beyond-sw-camp/be16-4th-1team-MeongNyang-DEVOPS)
 - 📚 **Synco** - [통합 협업 지식관리 툴](https://github.com/beyond-sw-camp/be16-fin-team404-Synco-BE)
 ---
