@@ -47,7 +47,7 @@
 
 ## 🌟 주요 프로젝트
 - 🚗 **CarManager** — [중고차 거래 플랫폼](https://github.com/hp80bcu/carmanager)
-- 🐾 **멍멍냥냥** - [반려동물 커뮤니티 프로젝트](https://github.com/beyond-sw-camp/be16-4th-1team-MeongNyang-be)
+- 🐾 **멍멍냥냥** - [반려동물 커뮤니티 프로젝트]([https://github.com/beyond-sw-camp/be16-4th-1team-MeongNyang-be](https://github.com/beyond-sw-camp/be16-2nd-1team-MeongNyang-BE))
 - 📚 **Synco** - [통합 협업 지식관리 툴](https://github.com/beyond-sw-camp/be16-fin-team404-Synco-BE)
 ---
 
