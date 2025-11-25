@@ -33,16 +33,6 @@
   <img src="https://img.shields.io/badge/AWS S3-569A31?style=flat&logo=amazon-s3&logoColor=white"/>
   <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white"/>
 </p>
-
----
-
-## 📊 GitHub 통계
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=suohyoon&show_icons=true&theme=tokyonight" alt="suohyoon's GitHub stats" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=suohyoon&layout=compact&theme=tokyonight" alt="suohyoon's most used languages" />
-</p>
-
 ---
 
 ## 🌟 주요 프로젝트
